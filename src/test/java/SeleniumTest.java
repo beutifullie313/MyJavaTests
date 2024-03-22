@@ -9,7 +9,7 @@ import java.time.Duration;
 
 import static org.testng.AssertJUnit.assertEquals;
 
-public class MainTest {
+public class SeleniumTest {
 @Test
     public void testTest(){
         WebDriver driver = new ChromeDriver(); //WebDriver is an interface
