@@ -1,5 +1,5 @@
 
-public class findCommonPrefixInArrayOfStrings {
+public class FindCommonPrefixInArrayOfStrings {
 
     public static String findCommonPrefix(String[] strs) {
         if (strs == null || strs.length == 0) {
