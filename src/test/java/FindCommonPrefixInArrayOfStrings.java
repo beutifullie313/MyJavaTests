@@ -9,6 +9,7 @@ public class FindCommonPrefixInArrayOfStrings {
         // Initialize prefix with the first string in the array
         String prefix = strs[0];
 
+
         // Iterate through the array starting from the second string
         for (int i = 1; i < strs.length; i++) {
             String current = strs[i];
